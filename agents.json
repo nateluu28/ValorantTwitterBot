@@ -1,0 +1,64 @@
+{
+  "agents": [
+    {
+      "name": "jett",
+      "bio": "Representing her home country of South Korea, Jett's agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies before they even know what hit them.",
+      "url": "https://playvalorant.com/en-us/agents/jett/"
+    },
+    {
+      "name": "raze",
+      "bio": "Raze explodes out of Brazil with her big personality and big guns. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces with a generous dose of “boom.”",
+      "url": "https://playvalorant.com/en-us/agents/raze/"
+    },
+    {
+      "name": "breach",
+      "bio": "Breach, the bionic Swede, fires powerful, targeted kinetic blasts to aggressively clear a path through enemy ground. The damage and disruption he inflicts ensures no fight is ever fair.",
+      "url": "https://playvalorant.com/en-us/agents/breach/"
+    },
+    {
+      "name": "omen",
+      "bio": "A phantom of a memory, Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as his foe scrambles to learn where he might strike next.",
+      "url": "https://playvalorant.com/en-us/agents/omen/"
+    },
+    {
+      "name": "brimstone",
+      "bio": "Joining from the USA, Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and from a distance make him an unmatched boots-on-the-ground commander.",
+      "url": "https://playvalorant.com/en-us/agents/brimstone/"
+    },
+    {
+      "name": "phoenix",
+      "bio": "Hailing from the U.K., Phoenix's star power shines through in his fighting style, igniting the battlefield with flash and flare. Whether he's got backup or not, he'll rush into a fight on his own terms.",
+      "url": "https://playvalorant.com/en-us/agents/phoenix/"
+    },
+    {
+      "name": "sage",
+      "bio": "The stronghold of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off aggressive pushes, she provides a calm center to a hellish fight.",
+      "url": "https://playvalorant.com/en-us/agents/sage/"
+    },
+    {
+      "name": "sova",
+      "bio": "Born from the eternal winter of Russia's tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide.",
+      "url": "https://playvalorant.com/en-us/agents/sova/"
+    },
+    {
+      "name": "viper",
+      "bio": "The American chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and cripple the enemy's vision. If the toxins don't kill her prey, her mind games surely will.",
+      "url": "https://playvalorant.com/en-us/agents/viper/"
+    },
+    {
+      "name": "cypher",
+      "bio": "The Moroccan information broker, Cypher is a one-man surveillance network who keeps tabs on the enemy's every move. No secret is safe. No maneuver goes unseen. Cypher is always watching.",
+      "url": "https://playvalorant.com/en-us/agents/cypher/"
+    },
+    {
+      "name": "reyna",
+      "bio": "Forged in the heart of Mexico, Reyna dominates single combat, popping off with each kill she scores. Her capability is only limited by her raw skill, making her highly dependent on performance.",
+      "url": "https://playvalorant.com/en-us/agents/reyna/"
+    },
+    {
+      "name": "killjoy",
+      "bio": "The genius of Germany. Killjoy secures the battlefield with ease using her arsenal of inventions. If the damage from her gear doesn't stop her enemies, her robots' debuff will help make short work of them.",
+      "url": "https://playvalorant.com/en-us/agents/killjoy/"
+    }
+  ]
+}
