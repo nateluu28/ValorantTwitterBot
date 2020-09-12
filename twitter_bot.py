@@ -34,13 +34,20 @@ agents = [
 
 
 mentions = api.mentions_timeline()
-
+# to do print the bios and link to agent in a reply
 for mention in mentions:
   print(mention.text)
   for agent in agents:
     if agent in mention.text:
       print(agent + 'found')
+      print(mention.id)
+      # api.update_status("my update", in_reply_to_status_id = mention.id)
+      api.update_status("@" + mention.user.screen_name + " " + agent + " is the best!", 1304172263806124033)
 
+
+# to do
+# make it into a function
+# retweet every 24hours? or through a mention hashtag
 
 # public_tweets = api.home_timeline()
 
